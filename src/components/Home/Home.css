@@ -1,0 +1,17 @@
+.guitarSpan {
+    font-size: 60px;
+    color: rgb(233, 199, 7);
+}
+
+.guitarSpan:hover {
+    color: #663399;
+}
+
+
+.backgroundImage {
+    min-height: 70vh;
+    background-image: url("https://guitarlessons-com.s3.amazonaws.com/media/blog/how-to-hold-guitar-hr.png");
+    object-fit: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
